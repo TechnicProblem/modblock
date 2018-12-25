@@ -42,4 +42,10 @@ h1 {
 
 .modblock-nav {
   display: inline-block;
+  margin-left: 5px;
+  font-size: 1.33rem;
+}
+
+.modblock-navlink {
+  margin-right: 5px;
 }
