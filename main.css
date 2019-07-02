@@ -34,7 +34,7 @@ header {
   float: right;
   border-color: #55565a;
   background-color: #f05523;
-  border-width: 2px;
+  border-width: 3px;
 }
 
 .curseforge:hover {
@@ -64,4 +64,12 @@ span {
 .helpimage {
   height: auto;
   width: 40rem;
+}
+
+.changelog-nav-container {
+  border-left: 1px solid #ede;
+}
+
+.changelog-nav {
+
 }
