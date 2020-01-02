@@ -1,0 +1,36 @@
+article {
+  margin-bottom: 1em;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  padding: 1em;
+  border: 2px solid #eee;
+}
+article > .heading {
+  display: flex;
+}
+.articleinfo {
+  margin-left: auto;
+  border-left: 2px solid #bbb;
+}
+.articleinfo > p {
+  margin-left: 1em;
+}
+.author {
+  color: #007bff;
+}
+.heading > img {
+  width: 4em;
+  height: 4em;
+  border-radius: 50%;
+  margin-left: 1em;
+}
+article > .share {
+  border-top: 2px solid #bbb;
+}
+.heading > h1 {
+  font-size: 2em;
+}
+.heading {
+  border-bottom: 2px solid #bbb;
+}
