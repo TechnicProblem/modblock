@@ -95,3 +95,31 @@ a[href*="https://"]::after {
 a.noexternal::after {
   content: none;
 }
+
+header.tri {
+  background-image: url(images/tribg.png);
+  min-height: 100%;
+  height:100vh;
+  background-size:cover;
+  background-attachment: fixed;
+  z-index: -3;
+  overflow: hidden;
+}
+
+.logotri {
+  width: 300px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 1em;
+}
+
+.logo-tri {
+  width: 750px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 6em;
+}
