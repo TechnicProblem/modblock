@@ -2,7 +2,7 @@
 name: ModBlockTri Bug Report
 about: Report a bug for ModBlockTri here.
 title: ''
-labels: bug
+labels: bug, modblocktri
 assignees: ''
 
 ---

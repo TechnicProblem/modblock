@@ -2,7 +2,7 @@
 name: ModBlockTri Feature Request
 about: Request a mod, config change or a new feature for ModBlockTri.
 title: ''
-labels: content request
+labels: content request, modblocktri
 assignees: ''
 
 ---
